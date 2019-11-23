@@ -6,4 +6,5 @@ const returnFirstTwoDrivers = function(arr) {
 
 const returnLastTwoDrivers = function(arr) {
   let returnArr = arr.slice(-2,2)
+  return returnArr
 }
